@@ -26786,7 +26786,7 @@ n=S.hi(q,new K.bb(n,n,n,n),q,K.ak(a,!1).r,q,q,C.O)
 s=t.t
 return new T.ba(C.h9,M.mB(C.a2,new K.bb(p,p,p,p),new T.ba(C.h9,T.lL(H.a([new T.ba(C.o5,T.je(C.bx,H.a([new T.ba(C.o9,o,q),T.mZ(q,M.ho(q,L.cq("R$10",K.ak(a,!1).y2.b.n8(C.j,22,C.c2),q),q,q,n,q,q,q,new V.aw(18,6,18,6),q,q),q,q,0,q,0,q)],s),C.ig),q),new T.ba(C.iD,L.cq("Guitarra Les Paul",K.ak(a,!1).y2.f.rb(C.c3),C.bW),q),new T.ba(C.iD,L.cq(u.n,K.ak(a,!1).y2.r.n7(18),C.da),q),new T.ba(C.o8,T.lL(H.a([L.cq("14.521 participantes",K.ak(a,!1).y2.r.n8(C.iy,13,C.c3),C.da),new T.f9(q,10,q,q),T.AF(H.a([T.a2v(H.a([r.kg(u.l),r.kg("https://thispersondoesnotexist.com/image?v=10"),r.kg("https://thispersondoesnotexist.com/image?v=5"),r.kg("https://thispersondoesnotexist.com/image?v=6"),r.kg("https://thispersondoesnotexist.com/image?v=7")],s),1.2,-10),new T.eP(1,C.aW,new T.ba(C.oa,L.cq("Maur\xedcio, Juliana, Bruno, Cesar e mais 14.515",K.ak(a,!1).y2.Q.cf(C.k),q),q),q)],s),C.bB,C.aP,C.aJ)],s),C.h5,C.aP,C.aJ),q),r.uo(a)],s),C.dk,C.aP,C.aJ),q),C.H,q,3,q,C.k,q,q,C.bp),q)},
 uo:function(a){var s=null,r=K.ak(a,!1).b
-return new T.ba(C.o7,B.Zi(!1,L.cq("Participar",s,s),C.H,r,s,s,s,s,s,s,s,s,s,s,s,s,new M.Pa(),s,s,s,C.j,s,s),s)},
+return new T.ba(C.o7,B.Zi(!1,L.cq("Participar?",s,s),C.H,r,s,s,s,s,s,s,s,s,s,s,s,s,new M.Pa(),s,s,s,C.j,s,s),s)},
 kg:function(a){return K.I8(C.j,null,K.I8(null,new D.fH(a,1),null,15),17)}}
 M.Pa.prototype={
 $0:function(){var s=t.z
